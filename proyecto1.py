@@ -1,3 +1,7 @@
+# Universidad del Valle de Guatemala
+# Sistemas de telecomunicaciones 1
+# Aldo Ávila, Michelle Serrano y Luis Carranza
+
 import tkinter as tk
 from tkinter import messagebox, ttk
 from tkcalendar import DateEntry
